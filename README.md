@@ -9,6 +9,7 @@ Project consists of 8 classes including main class:
   2) Airplane.java
   3) Flight.java
   4) Ticket.java
-  5) Passenger.java
-  6) ChooseTicket.java
-  7) BuyTicket.java
+  5) Person.java
+  6) Passenger.java
+  7) ChooseTicket.java
+  8) BuyTicket.java
