@@ -1,5 +1,5 @@
-import java.sql.Timestamp;
 import java.util.Calendar;
+import java.sql.Timestamp;
 
 public class Flight {
     private int flightID;
