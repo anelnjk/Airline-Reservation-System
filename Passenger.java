@@ -96,8 +96,8 @@ public class Passenger extends Person
     @Override
     public String toString()
     {
-        return "Passenger{" +
-                "email='" + email + '\'' +
+        return "Passenger{" + " Fullname= "+ super.getFirstName()+" "+super.getSecondName()+
+                " ,email='" + email + '\'' +
                 ", phoneNumber='" + phoneNumber + '\'' +
                 ", passport='" + passport +
                 '}';
